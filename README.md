@@ -1,7 +1,9 @@
 # Nisarg.demo
 This is my github repository
 <br>
-Author- Nisarg Devasi, one of the greatest competitive programmer
+Author- Nisarg Devasi,
+<br>
+one of the greatest competitive programmer
 <br>
 Nisarg Devasi
 <br>
