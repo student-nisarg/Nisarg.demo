@@ -7,8 +7,8 @@ one of the greatest competitive programmer
 <br>
 Nisarg Devasi
 <br>
-Software Development Engineer
+Software Tester
 <br>
-Data Stucture and Algorithms.
+Data Stucture and Algorithms with C++.
 <br>
-Research Scientist
+Research Scientist at Google
