@@ -7,7 +7,7 @@ one of the greatest competitive programmer
 <br>
 Nisarg Devasi
 <br>
-Software Engineer
+Software Developer
 <br>
 Data Stucture and Algorithms.
 <br>
